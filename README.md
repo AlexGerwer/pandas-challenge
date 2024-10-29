@@ -1,6 +1,14 @@
 PyCitySchools_starter
 
-This repo contains the code, the results, and the analysis performed on data pertaining to a hypothetical school district.  The methodology behind the code is decribed below:
+This repo contains the code, the results, and the analysis performed on data pertaining to a hypothetical school district.  The PyCitySchools folder in this repo contains:
+	
+ 	The Jupyter Notebook code:  PyCitySchools_starter.ipynb
+ 	
+  	The results of running the code:  PyCitySchools_starter Results.pdf
+  	
+   	The analysis of the results:  PyCitySchools_starter Analysis.pdf
+
+The methodology behind the code is decribed below:
 
 
 District Summary
